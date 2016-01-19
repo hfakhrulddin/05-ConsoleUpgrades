@@ -1,1 +1,14 @@
 C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\bin\Debug\ConsoleUpgrades.exe.config
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\bin\Debug\ConsoleUpgrades.exe
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\bin\Debug\ConsoleUpgrades.pdb
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades.csprojResolveAssemblyReference.cache
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\MainWindow.g.cs
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\App.g.cs
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades_MarkupCompile.cache
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades_MarkupCompile.lref
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\MainWindow.baml
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades.g.resources
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades.Properties.Resources.resources
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades.csproj.GenerateResource.Cache
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades.exe
+C:\Div\Origin\05-ConsoleUpgrades\ConsoleUpgrades\ConsoleUpgrades\obj\Debug\ConsoleUpgrades.pdb
